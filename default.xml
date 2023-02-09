@@ -4,6 +4,9 @@
   <remote  name="github"
            fetch="ssh://git@github.com" />
 
+  <remote  name="gitlab"
+           fetch="https://gitlab.com" />
+
   <remote  name="lineage"
            fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/"
            review="review.lineageos.org" />
